@@ -19,10 +19,11 @@ To get started with Push Swap, clone the repository and follow the instructions 
 
 # Usage
 Run the Push Swap program with the provided command-line interface, providing the initial stack configuration as input. The program will output the sequence of operations to sort the stack.
-./push_swap [arguments]
+
+`./push_swap [arguments]`
 
 
-Visualizer- python3 python_visualizer.py `ruby -e "puts (-50..50).to_a.shuffle.join(' ')"`
+`Visualizer- python3 python_visualizer.py `ruby -e "puts (-50..50).to_a.shuffle.join(' ')"`
 
 # Acknowledgments
 Inspired by the concept of stack sorting algorithms.
